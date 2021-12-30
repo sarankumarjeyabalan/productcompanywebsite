@@ -38,6 +38,7 @@ Publish the website in the given URL.
 
 ## HOME PAGE:
 
+```
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -80,8 +81,10 @@ Publish the website in the given URL.
     </div>
   </body>
 </html>
+```
 
 ## PRODUCTS PAGE:
+```
 
 <!DOCTYPE html>
 <html lang="en">
@@ -197,9 +200,10 @@ Publish the website in the given URL.
     </div>
   </body>
 </html>
+```
 
 ## PEOPLE PAGE :
-
+```
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -308,9 +312,10 @@ Publish the website in the given URL.
     </div>
   </body>
 </html>
+```
 
 ## CONTACT US:
-
+```
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -353,7 +358,7 @@ Publish the website in the given URL.
     </div>
   </body>
 </html>
-
+```
 
 ## OUTPUT:
 
